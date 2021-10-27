@@ -4,7 +4,7 @@ Project status: completed
 
 # General info
 
-Testing a User's Login to an Application.
+Testing a user's login to an application.
 In Application we have five groups:
 <li>Seriors: person people over 65 years of age </li>
 <li>Adult: person between 18 and 65 years of age </li>
